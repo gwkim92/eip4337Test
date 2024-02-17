@@ -1,0 +1,13 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.5"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "mysql2": "^3.9.1",
+    "sequelize": "^6.36.0",
+    "sequelize-cli": "^6.6.2"
+  }
+}
